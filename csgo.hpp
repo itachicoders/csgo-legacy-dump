@@ -1,10 +1,10 @@
 #pragma once
 #include <cstdint>
 
-// 2025-01-25 04:09: UTC
+// 2025-01-28 12:41: UTC
 
 namespace kyedumper {
-constexpr int64_t timestamp = 1737821366;
+constexpr int64_t timestamp = 1738068088;
 namespace netvars {
 constexpr uintptr_t cs_gamerules_data = 0x0;
 constexpr uintptr_t m_aimPunchAngle = 0x303C;
@@ -147,7 +147,7 @@ constexpr uintptr_t dwWeaponTable = 0x526388C;
 constexpr uintptr_t dwWeaponTableIndex = 0x326C;
 constexpr uintptr_t dwYawPtr = 0xDF3928;
 constexpr uintptr_t dwZoomSensitivityRatioPtr = 0xDF9398;
-constexpr uintptr_t find_hud_element = 0x59A83A40;
+constexpr uintptr_t find_hud_element = 0x5B253A40;
 constexpr uintptr_t force_update_spectator_glow = 0x3DD09A;
 constexpr uintptr_t interface_engine_cvar = 0x3FA9C;
 constexpr uintptr_t is_c4_owner = 0x3EA8A0;

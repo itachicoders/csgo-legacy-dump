@@ -1,4 +1,4 @@
-timestamp = 1737821366
+timestamp = 1738068088
 
 [netvars]
 cs_gamerules_data = 0
@@ -141,7 +141,7 @@ dwWeaponTable = 86390924
 dwWeaponTableIndex = 12908
 dwYawPtr = 14629160
 dwZoomSensitivityRatioPtr = 14652312
-find_hud_element = 1504197184
+find_hud_element = 1529166400
 force_update_spectator_glow = 4051098
 interface_engine_cvar = 260764
 is_c4_owner = 4106400

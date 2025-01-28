@@ -9,7 +9,7 @@
 </CheatEntry>
 <CheatEntry>
 <ID>1</ID>
-<Description>"Dumped by KyeDumper on 2025-01-25 04:09: UTC"</Description>
+<Description>"Dumped by KyeDumper on 2025-01-28 12:41: UTC"</Description>
 <LastState Value="" RealAddress="00000000"/>
 <Color>C8450D</Color>
 <GroupHeader>1</GroupHeader>
@@ -3755,7 +3755,7 @@
 </SymbolEntry>
 <SymbolEntry>
 <Name>find_hud_element</Name>
-<Address>0x59A83A40</Address>
+<Address>0x5B253A40</Address>
 </SymbolEntry>
 <SymbolEntry>
 <Name>m_bIsLocalPlayer</Name>

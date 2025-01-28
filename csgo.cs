@@ -1,12 +1,12 @@
 using System;
 
-// 2025-01-25 04:09: UTC
+// 2025-01-28 12:41: UTC
 
 namespace kyedumper
 {
     public static class info
     {
-        public static DateTime timestamp = DateTimeOffset.FromUnixTimeSeconds(1737821366).DateTime;
+        public static DateTime timestamp = DateTimeOffset.FromUnixTimeSeconds(1738068088).DateTime;
     }
     public static class netvars
     {
@@ -152,7 +152,7 @@ namespace kyedumper
         public const int dwWeaponTableIndex = 0x326C;
         public const int dwYawPtr = 0xDF3928;
         public const int dwZoomSensitivityRatioPtr = 0xDF9398;
-        public const int find_hud_element = 0x59A83A40;
+        public const int find_hud_element = 0x5B253A40;
         public const int force_update_spectator_glow = 0x3DD09A;
         public const int interface_engine_cvar = 0x3FA9C;
         public const int is_c4_owner = 0x3EA8A0;
